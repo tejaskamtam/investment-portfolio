@@ -7,7 +7,7 @@ from datetime import date
 
 today = date.today().strftime('%Y-%m-%d')
 
-API_KEY = 'YND0FAN4DSYX429W'
+API_KEY = ''
 
 headers = ['Ticker','Name','Exchange','Sector','MarketCap','Close','52WkLo','52WkHi','Target','EPS','PE','PEG','EV/EBITDA','EV/Revenue','1YDel','3YDel','5YDel','50EMA','200EMA', 'Beta', 'Raw Score', 'Raw Weight', 'Rating', 'TK Score', 'Weight %', 'Weight $']
 
